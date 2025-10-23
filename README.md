@@ -64,7 +64,6 @@ Red, Rebol, Ring, Sather, Turing, Wren
 ```bash
 git clone https://github.com/6x-u/CodeAlchemist.git
 cd CodeAlchemist
-pip install -r requirements.txt
 python run.py
 
 
