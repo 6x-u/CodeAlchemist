@@ -41,25 +41,7 @@
 
 ---
 
-##  كيف تشغل الأداة؟
 
-**أسهل إشي**
-
-```bash
-git clone https://github.com/6x-u/CodeAlchemist.git
-cd CodeAlchemist
-pip install -r requirements.txt
-python run.py
-الملف run.py بيثبت كل المكتبات لحاله وبيشغل الأداة،
-
-المكتبات المطلوبة (تثبيت تلقائي):
-rich - واجهة Terminal جميلة
-
-py7zr - ضغط 7Z
-
-pyzipper - تشفير ZIP
-
- اللغات المدعومة (96 لغة!)
 <details> <summary><b>اضغط هنا لعرض كل اللغات 👇</b></summary>
 mathematica
 نسخ الكود
@@ -75,7 +57,19 @@ Pike, PL/I, Rexx, Seed7, Simula, SPARK, SPSS, Stata, Vala, XSLT,
 Yorick, Zig, Chapel, Coq, LiveScript, Mercury, Pony, PureScript, 
 Red, Rebol, Ring, Sather, Turing, Wren
 </details>
-الأداة فيها تقنيات ضغط
+##  كيف تشغل الأداة؟
+
+**أسهل إشي**
+
+```bash
+git clone https://github.com/6x-u/CodeAlchemist.git
+cd CodeAlchemist
+pip install -r requirements.txt
+python run.py
+
+
+
+
 
 تقنيات الضغط:
 Entropy Calculation - حساب الإنتروبيا للبيانات
