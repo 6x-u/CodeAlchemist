@@ -80,16 +80,13 @@ Delta Encoding - ترميز الفروقات
 
 RLE Preprocessing - ضغط التكرارات
 
-Mathematical Compression - خوارزميات
-
-الأمان:
+Mathematical Compression - 
 تشفير AES-256 للملفات المضغوطة بـ ZIP
 
-Passwords قوية وآمنة
-
+Passwords 
 أمثلة الاستخدام
 مثال 1: ترجمة كود Python إلى JavaScript
-bash
+```bash
 نسخ الكود
 python run.py
 # اختر: 1. Code Translation Tool
@@ -97,7 +94,7 @@ python run.py
 # اختر لغة الهدف: JavaScript
 # النتيجة: script_translated.js 
 مثال 2: ضغط مجلد بـ ZIP مع Password
-bash
+```bash
 نسخ الكود
 python run.py
 # اختر: 2. Folder Compression Tool
@@ -106,7 +103,7 @@ python run.py
 # أدخل Password: ******
 # النتيجة: CodeAlchemist.zip (مشفر AES)
 مثال 3: ضغط ضغط قوي يعني(7Z)
-bash
+```bash
 نسخ الكود
 python run.py
 # اختر: 2. Folder Compression Tool
@@ -127,4 +124,3 @@ mero
 
 حط نجمه عل مشروع فضلا وليس امرا
 
-</div> ```
