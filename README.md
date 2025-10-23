@@ -69,9 +69,7 @@ python run.py
 
 
 
-
-
-تقنيات الضغط:
+كقنيات الضغط:*
 Entropy Calculation - حساب الإنتروبيا للبيانات
 
 Block Size Optimization - تحسين حجم البلوك ديناميكياً
@@ -86,7 +84,7 @@ Mathematical Compression -
 Passwords 
 أمثلة الاستخدام
 مثال 1: ترجمة كود Python إلى JavaScript
-```bash
+
 نسخ الكود
 python run.py
 # اختر: 1. Code Translation Tool
@@ -94,7 +92,7 @@ python run.py
 # اختر لغة الهدف: JavaScript
 # النتيجة: script_translated.js 
 مثال 2: ضغط مجلد بـ ZIP مع Password
-```bash
+
 نسخ الكود
 python run.py
 # اختر: 2. Folder Compression Tool
@@ -103,7 +101,7 @@ python run.py
 # أدخل Password: ******
 # النتيجة: CodeAlchemist.zip (مشفر AES)
 مثال 3: ضغط ضغط قوي يعني(7Z)
-```bash
+
 نسخ الكود
 python run.py
 # اختر: 2. Folder Compression Tool
